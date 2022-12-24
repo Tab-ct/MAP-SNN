@@ -1,5 +1,5 @@
 # MAP-SNN
-MAP-SNN[1] on N-MNIST and SHD.
+MAP-SNN: Mapping spike activities with multiplicity, adaptability, and plasticity into bio-plausible spiking neural networks [1]
 
 ![overview](https://user-images.githubusercontent.com/53027042/167656474-8a3fd584-57a6-4d81-91b6-671085b8a19c.png)
 
@@ -13,8 +13,10 @@ MAP-SNN[1] on N-MNIST and SHD.
 
 ## Reference
 
-[1] C. Yu, Y. Du, M. Chen, A. Wang, G. Wang, and E. Li, “MAP-SNN: Mapping Spike Activities with Multiplicity, Adaptability, and Plasticity into Bio-Plausible Spiking Neural Networks,” arXiv:2204.09893 [cs, q-bio], Apr. 2022, Accessed: May 04, 2022. [Online]. Available: http://arxiv.org/abs/2204.09893.   
+[1] C. Yu, Y. Du, M. Chen, A. Wang, G. Wang, and E. Li, “MAP-SNN: Mapping spike activities with multiplicity, adaptability, and plasticity into bio-plausible spiking neural networks,” Frontiers in Neuroscience, vol. 16, 2022. Available: https://www.frontiersin.org/articles/10.3389/fnins.2022.945037
+
 [2] Spiking Heidelberg Datasets  
 https://zenkelab.org/resources/spiking-heidelberg-datasets-shd/  
+
 [3] Neuromorphic-MNIST (N-MNIST) Dataset   
 https://www.garrickorchard.com/datasets/n-mnist  
